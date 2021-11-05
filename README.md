@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ?.
+- 🔭 I’m currently working on QingDao.
 - 🌱 I’m currently learning Flutter.
 
 ### Languages & Tools
