@@ -18,7 +18,7 @@
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kungege&show_icons=true&layout=compact&hide=stars&count_private=true"  alt="XieZongChen's GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kungege&layout=compact&count_private=true&hide=html" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kungege&layout=compact&count_private=true" />
 </div>
 
 <p align="center">
